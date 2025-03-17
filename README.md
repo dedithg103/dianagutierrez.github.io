@@ -1,5 +1,5 @@
-#Diana Gutierrez Lopez, PhD
-# dianagutierrez.github.io
+# Diana Gutierrez Lopez, PhD
+### dianagutierrez.github.io
 
 ## Education
 Nutritional Sciences, PhD
